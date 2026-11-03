@@ -1,23 +1,18 @@
 <h1 align="center">Hi, I'm Ha Pham 👋</h1>
 
-
-</p>
-
 ## About me
 
 - 🎓 I am pursuing an **M.A. in Mathematics**, specializing in **Mathematics of Finance**, at **Columbia University**.
-- 🎓 I earned Bachelor degrees in **Data Science, Finance, and Economics**, with a minor in Mathematics, from **UMass Amherst**.
+- 🎓 I earned bachelor's degrees in **Data Science, Finance, and Economics**, with a minor in Mathematics, from **UMass Amherst**.
 - 📊 My work includes **VaR/CVaR, P&L attribution, interest-rate risk, stress testing, mortgage analytics, and risk-scoring models**.
 
 ## Featured projects
 
-- [Machine Learning for Finance](https://github.com/hatruongminhpham/Machine-Learning-for-Finance) : Credit-risk modeling, financial NLP, time-series forecasting, and deep learning for market prediction.
-- [Athena Autocall Pricing with the Heston Model](https://github.com/hatruongminhpham/Calibration-and-Pricing-of-Athena-Autocalls-Heston-Model-using-FFT-and-Monte-Carlo) : Calibration and structured-product pricing using FFT and Monte Carlo methods.
-- [CVaR Portfolio Optimization](https://github.com/hatruongminhpham/CVaR-Portfolio-Optimization) : Portfolio construction focused on downside risk.
-- [Multi-Factor Model with Python](https://github.com/hatruongminhpham/Multi-Factor-Model-with-Python) : Factor-based analysis and quantitative investment research.
+- [Machine Learning for Finance](https://github.com/hatruongminhpham/Machine-Learning-for-Finance) — Credit-risk modeling, financial NLP, time-series forecasting, and deep learning for market prediction.
+- [Athena Autocall Pricing with the Heston Model](https://github.com/hatruongminhpham/Calibration-and-Pricing-of-Athena-Autocalls-Heston-Model-using-FFT-and-Monte-Carlo) — Calibration and structured-product pricing using FFT and Monte Carlo methods.
+- [CVaR Portfolio Optimization](https://github.com/hatruongminhpham/CVaR-Portfolio-Optimization) — Portfolio construction focused on downside risk.
+- [Multi-Factor Model with Python](https://github.com/hatruongminhpham/Multi-Factor-Model-with-Python) — Factor-based analysis and quantitative investment research.
 
-
-```html
 ## Skills
 
 ### Programming & Tools
@@ -63,5 +58,3 @@
   <img src="https://img.shields.io/badge/AI--Assisted%20Development-412991?style=for-the-badge" alt="AI-Assisted Development" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge" alt="Prompt Engineering" />
 </p>
-```
-
