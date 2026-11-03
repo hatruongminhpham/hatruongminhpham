@@ -16,7 +16,6 @@
 - [CVaR Portfolio Optimization](https://github.com/hatruongminhpham/CVaR-Portfolio-Optimization) : Portfolio construction focused on downside risk.
 - [Multi-Factor Model with Python](https://github.com/hatruongminhpham/Multi-Factor-Model-with-Python) : Factor-based analysis and quantitative investment research.
 
-## Languages and tools
 
 ```html
 ## Skills
@@ -65,5 +64,4 @@
   <img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge" alt="Prompt Engineering" />
 </p>
 ```
-
 
