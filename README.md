@@ -33,17 +33,4 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## GitHub stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hatruongminhpham&show_icons=true&hide_border=true&theme=transparent" alt="Ha Pham's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatruongminhpham&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-</p>
-
-## Connect
-
-<p>
-  <a href="https://github.com/hatruongminhpham">
-    <img src="https://img.shields.io/badge/GitHub-hatruongminhpham-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-</p>
