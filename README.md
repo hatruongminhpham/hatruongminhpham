@@ -1,20 +1,13 @@
 <h1 align="center">Hi, I'm Ha Pham 👋</h1>
 
-<h3 align="center">Quantitative Risk · Mathematical Finance · Machine Learning</h3>
 
-<p align="center">
-  M.A. candidate at Columbia University building data-driven models for financial markets, risk management, and derivatives pricing.
 </p>
 
 ## About me
 
 - 🎓 I am pursuing an **M.A. in Mathematics**, specializing in **Mathematics of Finance**, at **Columbia University**.
-- 🎓 I earned degrees in **Data Science, Finance, and Economics**, with a minor in Mathematics, from **UMass Amherst**.
-- 🏦 I have quantitative risk experience with the **Federal Home Loan Bank of New York** and the **Federal Home Loan Bank of San Francisco**.
-- 📊 My work spans **VaR/CVaR, P&L attribution, interest-rate risk, stress testing, mortgage analytics, and risk-scoring models**.
-- 🧮 I explore **derivatives pricing, Heston models, Monte Carlo simulation, FFT methods, and portfolio optimization**.
-- 🤖 I build applied ML projects in **credit risk, financial NLP, time-series forecasting, and market prediction**.
-- 💬 Ask me about quantitative risk, mathematical finance, or machine learning for finance.
+- 🎓 I earned Bachelor degrees in **Data Science, Finance, and Economics**, with a minor in Mathematics, from **UMass Amherst**.
+- 📊 My work includes **VaR/CVaR, P&L attribution, interest-rate risk, stress testing, mortgage analytics, and risk-scoring models**.
 
 ## Featured projects
 
