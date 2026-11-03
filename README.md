@@ -1,9 +1,9 @@
 
 ## About me
 
-- 🎓 I am pursuing an **M.A. in Mathematics**, specializing in **Mathematics of Finance**, at **Columbia University**.
-- 🎓 I earned bachelor's degrees in **Data Science, Finance, and Economics**, with a minor in Mathematics, from **UMass Amherst**.
-- 📊 My work includes **VaR/CVaR, P&L attribution, interest-rate risk, stress testing, mortgage analytics, and risk-scoring models**.
+- 🎓 I am pursuing an M.A. in Mathematics, specializing in Mathematics of Finance, at Columbia University.
+- 🎓 I earned bachelor's degrees in Data Science, Finance, and Economics, with a minor in Mathematics, from UMass Amherst.
+- 📊 My work includes VaR/CVaR, P&L attribution, interest-rate risk, stress testing, mortgage analytics, and risk-scoring models.
 
 ## Featured projects
 
