@@ -11,10 +11,10 @@
 
 ## Featured projects
 
-- [Machine Learning for Finance](https://github.com/hatruongminhpham/Machine-Learning-for-Finance) — Credit-risk modeling, financial NLP, time-series forecasting, and deep learning for market prediction.
-- [Athena Autocall Pricing with the Heston Model](https://github.com/hatruongminhpham/Calibration-and-Pricing-of-Athena-Autocalls-Heston-Model-using-FFT-and-Monte-Carlo) — Calibration and structured-product pricing using FFT and Monte Carlo methods.
-- [CVaR Portfolio Optimization](https://github.com/hatruongminhpham/CVaR-Portfolio-Optimization) — Portfolio construction focused on downside risk.
-- [Multi-Factor Model with Python](https://github.com/hatruongminhpham/Multi-Factor-Model-with-Python) — Factor-based analysis and quantitative investment research.
+- [Machine Learning for Finance](https://github.com/hatruongminhpham/Machine-Learning-for-Finance) : Credit-risk modeling, financial NLP, time-series forecasting, and deep learning for market prediction.
+- [Athena Autocall Pricing with the Heston Model](https://github.com/hatruongminhpham/Calibration-and-Pricing-of-Athena-Autocalls-Heston-Model-using-FFT-and-Monte-Carlo) : Calibration and structured-product pricing using FFT and Monte Carlo methods.
+- [CVaR Portfolio Optimization](https://github.com/hatruongminhpham/CVaR-Portfolio-Optimization) : Portfolio construction focused on downside risk.
+- [Multi-Factor Model with Python](https://github.com/hatruongminhpham/Multi-Factor-Model-with-Python) : Factor-based analysis and quantitative investment research.
 
 ## Languages and tools
 
